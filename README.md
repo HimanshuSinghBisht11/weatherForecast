@@ -96,7 +96,7 @@ weather_web/
 ```bash
 # .env.local
 VITE_WEATHER_API_KEY=your_api_key_here
-VITE_WEATHER_API_URL=https://api.weatherservice.com
+VITE_WEATHER_API_URL=https://api.openweathermap.org/
 ```
 
 
